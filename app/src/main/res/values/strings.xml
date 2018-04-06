@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thừa Kế và Đa Hình</string>
+    <string name="bt1">HÌNH VUÔNG</string>
+    <string name="bt2">HÌNH CHỮ NHẬT</string>
+    <string name="bt3">HÌNH TAM GIÁC</string>
+    <string name="lbl1">Nhập cạnh hình vuông:</string>
+    <string name="lbl2">Nhập chiều dài:</string>
+    <string name="lbl3">Nhập chiều rộng:</string>
+    <string name="lbl4">Nhập cạnh a:</string>
+    <string name="lbl5">Nhập cạnh b:</string>
+    <string name="lbl6">Nhập cạnh c:</string>
+    <string name="dt">DIỆN TÍCH</string>
+    <string name="cv">CHU VI</string>
+</resources>
